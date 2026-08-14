@@ -55,13 +55,4 @@ Lately I've been focused on **AI agent design, multi-agent systems, and voice AI
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdull4ahfarooq&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdull4ahfarooq&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Let's build something. Reach out about internships, freelance projects, or collaborations.</i></p>
