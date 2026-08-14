@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · Robotics & AI Undergraduate · Building AI Agents & Automation Platforms</h3>
 
 <p align="center">
-  <a href="https://abdullah-farooq-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://abdullah-farooq-studio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abdullahfarooq-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdull4ah.farooq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -47,14 +47,11 @@ Lately I've been focused on **AI agent design, multi-agent systems, and voice AI
 | Project | Description | Stack |
 |---|---|---|
 | **[Voyana](https://github.com/abdull4ahfarooq/voyana-explore-beyond)** | Luxury travel booking platform — unified hotel/flight/package search, staged checkout, and a live world-map flight network across 180 countries. | React · TypeScript · TanStack Start (SSR) · Tailwind |
+| **[Aureum Estates](https://github.com/abdull4ahfarooq/evermore-estates)** | Server-rendered luxury real-estate platform with 20+ page types, ROI/rental-yield calculators, and property comparison. | React · TypeScript · TanStack Start (SSR) · Tailwind |
 | **[BusinessOS](https://github.com/abdull4ahfarooq/mission-control-os)** | Enterprise multi-agent operations platform — agents collaborate in real time with human-in-the-loop approval for high-risk actions. | React · TypeScript · FastAPI · Supabase |
+| **[AI Business Calling Dashboard](https://github.com/abdull4ahfarooq/business-ai-calling-dashboard)** | Full-stack voice AI platform automating inbound/outbound calls with a live "Communication Map". | n8n · Node.js · Twilio · OpenAI · ElevenLabs |
 | **[Vendora](https://github.com/abdull4ahfarooq/vendora-wholesale-elevated)** | Dual-audience e-commerce platform (retail storefront + B2B wholesale portal) with a unified admin/CRM/automation dashboard. | React · TypeScript · Tailwind · TanStack |
-| **Aureum Estates** | Server-rendered luxury real-estate platform with 20+ page types, ROI/rental-yield calculators, and property comparison. | React · TypeScript · TanStack Start (SSR) · Tailwind |
-| **AI Business Calling Dashboard** | Full-stack voice AI platform automating inbound/outbound calls with a live stage-by-stage "Communication Map". | React · TypeScript · FastAPI · Twilio · OpenAI · ElevenLabs |
-| **Enterprise Shopify Ops Platform** | Operator dashboard unifying analytics, inventory, and pricing across multiple connected Shopify stores. | React · TypeScript |
-| **Loom Print** | Print-on-demand storefront with a live custom-print builder and AI color-matching assistant. | React · TypeScript · Tailwind |
-
-> Repos without a link above aren't pushed to GitHub yet — see the action plan for how to add them.
+| **[Portfolio Site](https://github.com/abdull4ahfarooq/abdullah-farooq-studio)** | This portfolio — case studies, project write-ups, and contact. | React · TypeScript · TanStack Start (SSR) |
 
 ---
 
